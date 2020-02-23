@@ -21,8 +21,9 @@ GLHF :D
 
 
 -- [[ KEYS SETUP ]] --
-local Activation_Key = 4 -- key to activate / deactivate the script, default 4 = G4
-local Selection_Key = 6 -- Key to choose weapons, default 6 = precision key
+local Activation_Key = 3 -- key to activate / deactivate the script, default 3 = G4
+local Selection_Key = 3 -- Key to choose weapons, default 3
+= precision key
 -- [[ KEYS SETUP ]] --
 
 -- [[ PATTERNS ]] --
